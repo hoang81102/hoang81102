@@ -16,25 +16,15 @@
 
 ---
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="50%" align="center" style="border: none;">
-      <h2 align="center">🚀 About Me</h2>
-      <div align="left">
-        <ul>
-          <li>🎓 Student at <b>FPT University</b></li>
-          <li>💻 <b>Front-end, Back-end & Mobile Developer</b></li>
-          <li>🌱 Currently learning <b>.NET, ReactJS, React Native</b></li>
-          <li>🎯 Future orientation: <b>Full-stack Developer & Business Analyst</b></li>
-          <li>🗣️ English Communication: <b>Working Proficiency</b></li>
-        </ul>
-      </div>
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github.com/741113576/741113576/blob/main/pic/hello.gif?raw=true" width="300" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
+<h2 align="center">🚀 About Me</h2>
+
+<div align="center">
+  <p>🎓 Student at <b>FPT University</b></p>
+  <p>💻 <b>Front-end, Back-end & Mobile Developer</b></p>
+  <p>🌱 Currently learning <b>.NET, ReactJS, React Native</b></p>
+  <p>🎯 Future orientation: <b>Full-stack Developer & Business Analyst</b></p>
+  <p>🗣️ English Communication: <b>Working Proficiency</b></p>
+</div>
 
 ---
 
@@ -52,7 +42,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hoang81102&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8" height="192px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoang81102&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" height="192px" alt="Top Languages" />
 </div>
 <br/>
 <div align="center">
