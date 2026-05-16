@@ -40,14 +40,9 @@ Front-End Developer |Back-End Developer | Mobile Developer
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ---
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoang81102&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
 - Facebook: [hoang.thanh.que](https://www.facebook.com/hoang.thanh.que/)
-- Zalo: 0583697989 
+- Zalo: 0583697989
+
+
