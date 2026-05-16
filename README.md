@@ -38,8 +38,6 @@
 
 ---
 
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
-
 <div align="center">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hoang81102/hoang81102/output/snake.svg">
 </div>
