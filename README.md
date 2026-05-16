@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vũ Đậu Thành Hoàng</h1>
 
-<!--
-**hoang81102/hoang81102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Fullstack Developer | Mobile Developer | Unity Developer
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Student at FPT University
+- 💻 Fullstack Developer
+- 🎮 Developing Unity applications & games
+- 🎵 Building gamified music learning systems
+- 🌱 Currently learning .NET, ReactJS, Mobile Development
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+### Backend
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+
+### Mobile
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
+
+### Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoang81102&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=hoang81102&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- Facebook: hoang.thanh.que
+- GitHub: https://github.com/hoang81102
