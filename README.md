@@ -38,18 +38,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoang81102&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8" height="192px" alt="GitHub Stats" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoang81102&theme=tokyonight&hide_border=true&stroke=0000&background=00000000" height="192px" alt="GitHub Streak" />
-</div>
-
----
-
 <h2 align="center">🐍 GitHub Contribution Snake</h2>
 
 <div align="center">
