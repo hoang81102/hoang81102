@@ -42,35 +42,40 @@ Front-End Developer | Back-End Developer | Mobile Developer
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=legendneverover2&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legendneverover2&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🐍 Snake Game
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/legendneverover2/legendneverover2/output/snake.svg" />
-</p>
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:           A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake:       Color of the snake
+    #  - color_dots:        Coma separated list of dots color.
+    #                       The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                       Exactly 5 colors are expected.
+    #  - color_background:  Color of the background (for gif only)
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
 
 ---
 
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://github.com/legendneverover2">
+  <a href="https://github.com/hoang81102">
     <img src="https://img.shields.io/badge/GitHub-legendneverover2-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.facebook.com/hoang.thanh.que/">
     <img src="https://img.shields.io/badge/Facebook-hoang.thanh.que-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Zalo-0583697989-0068FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Discord-Your_Discord_Name-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+ 
 </p>
